@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 <p style="font-size:50px;">How to moderate on the Legacy SMP for dum dums!</p>
