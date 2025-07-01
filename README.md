@@ -1,4 +1,3 @@
-# admin-html-document
 <!DOCTYPE html>
 <html>
 <body>
